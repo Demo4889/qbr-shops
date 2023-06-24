@@ -7,32 +7,28 @@ Config.Products = {
             price = 2,
             amount = 50,
             info = {},
-            type = "item",
-            slot = 1,
+            type = "item"
         },
         [2] = {
             name = "bread",
             price = 2,
             amount = 50,
             info = {},
-            type = "item",
-            slot = 2,
+            type = "item"
         },
         [3] = {
             name = "apple",
             price = 1,
             amount = 50,
             info = {},
-            type = "item",
-            slot = 3,
+            type = "item"
         },
         [4] = {
             name = "chocolate",
             price = 2,
             amount = 50,
             info = {},
-            type = "item",
-            slot = 4,
+            type = "item"
         },
     },
     ["saloon"] = {
@@ -41,32 +37,28 @@ Config.Products = {
             price = 7,
             amount = 50,
             info = {},
-            type = "item",
-            slot = 1,
+            type = "item"
         },
         [2] = {
             name = "whiskey",
             price = 10,
             amount = 50,
             info = {},
-            type = "item",
-            slot = 2,
+            type = "item"
         },
         [3] = {
             name = "vodka",
             price = 12,
             amount = 50,
             info = {},
-            type = "item",
-            slot = 3,
+            type = "item"
         },
         [4] = {
             name = "coffee",
             price = 5,
             amount = 500,
             info = {},
-            type = "item",
-            slot = 4,
+            type = "item"
         },
     },
     ["weapons"] = {
@@ -75,16 +67,14 @@ Config.Products = {
             price = 250,
             amount = 250,
             info = {},
-            type = "item",
-            slot = 1,
+            type = "item"
         },
         [2] = {
             name = "ammo_revolver",
             price = 15,
             amount = 250,
             info = {},
-            type = "item",
-            slot = 2,
+            type = "item"
         },
     },
 }
