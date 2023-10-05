@@ -51,21 +51,10 @@ CreateThread(function()
             event = OpenShop,
             args = {v.products, v.name},
         })
-        if v.showblip == true then
+        if v.blip then
             local StoreBlip = N_0x554d9d53f696d002(1664425300, v.coords)
-            if v.products == "normal" then
-                SetBlipSprite(StoreBlip, 1475879922, 52)
-                SetBlipScale(StoreBlip, 0.2)
-            elseif v.products == "weapons" then
-                SetBlipSprite(StoreBlip, -145868367, 1)
-                SetBlipScale(StoreBlip, 0.2)
-            elseif v.products == "saloon" then
-                SetBlipSprite(StoreBlip, 1879260108, 1)
-                SetBlipScale(StoreBlip, 0.2)
-            elseif v.products == "casino" then
-                SetBlipSprite(StoreBlip, 595820042, 1)
-                SetBlipScale(StoreBlip, 0.2)
-            end
+            SetBlipSprite(StoreBlip, v.blip, 1)
+            SetBlipScale(StoreBlip, 0.2)
         end
     end
 end)
