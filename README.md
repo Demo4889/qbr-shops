@@ -1,7 +1,4 @@
-# qbr-shops
-Shops for RedM QBRCore
-
-## Shops Feature for QBRCoreFramework 🛒
+-## Shops for QBRCoreFramework 🛒
 
 ## Screenshots
 ![Shops](https://cdn.discordapp.com/attachments/1021700112776437760/1183253072965804072/image.png?ex=6587a94c&is=6575344c&hm=85fb2e0c7b086865d2d3b00a23f9860ef13505d994c9b2126e0899ca9f887f41&)
