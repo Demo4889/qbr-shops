@@ -18,8 +18,6 @@ Ability to purchase items & guns
 
 # Download the script and put it in the [qbr] directory.
 
-'qbr-inventory'
-
 ## License
 ```
 QBCore Framework
